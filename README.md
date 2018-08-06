@@ -1,4 +1,8 @@
 # 设享云功能需求交互文档
+
+## 20180806 更新：花样年变更集成方案原型
+https://yangtingzhi.github.io/mockup/20180806
+
 ## 20180725 更新：图纸分发增加图纸名称字段
 https://yangtingzhi.github.io/mockup/20180725
 
