@@ -1,5 +1,8 @@
 # 设享云功能需求交互文档
 
+## 20181030 更新：增加图纸分发
+https://yangtingzhi.github.io/mockup/20181030
+
 ## 20181016 更新：设计评审报告页面增加操作以及
 https://yangtingzhi.github.io/mockup/20181016
 
